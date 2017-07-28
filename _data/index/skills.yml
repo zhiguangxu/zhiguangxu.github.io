@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: GitHub, Motivation, Ruby on Rails, ReactJS, Machine Learing, Python, C, Sleeping
+percentage: 100, 35, 95, 80, 70, 80, 90, 50

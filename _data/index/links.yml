@@ -1,18 +1,42 @@
 # links section data
-- last_name: Name 1
-  first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+- last_name: 
+  first_name: GENI
+  desc: An open infrastructure for at-scale networking and distributed systems research and education that spans the US.
+  website: https://www.geni.net/
+  email: 
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+- last_name: 
+  first_name: Amazon S3
+  desc: Object storage built to store and retrieve any amount of data from anywhere.
+  website: https://aws.amazon.com/s3/
+  email: 
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: 
+  first_name: CloudLab
+  desc: Flexible, scientific infrastructure for research on the future of cloud computing.
+  website: https://cloudlab.us/
+  email: 
+
+- last_name: 
+  first_name: Google Cloud
+  desc: Secure, global, high-performance, and cost-effective infrastructure.
+  website: https://cloud.google.com/
+  email: 
+
+- last_name: 
+  first_name: Heroku
+  desc: A PaaS that enables developers to build, run, and operate applications entirely in the cloud.
+  website: https://www.heroku.com/
+  email: 
+
+- last_name: 
+  first_name: Chameleon
+  desc: A configurable experimental environment for large-scale cloud research.
+  website: https://www.chameleoncloud.org/
+  email: 
+
+- last_name: 
+  first_name: IBM Bluemix
+  desc: Servers in cloud with instance-level protection through scalable and built-in virtual firewalls.
+  website: https://www.ibm.com/cloud-computing/bluemix/
+  email: 

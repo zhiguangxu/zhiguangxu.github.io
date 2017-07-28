@@ -1,29 +1,44 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Valdosta State University
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: In addition to teaching a wide spectrum of courses in computing, I am an active researcher in cloud and networking, AI, parallel computing, and CS education.
+      <p>Meanwhile, I have been working as a Full Stack Developer on numerous Web and Modile projects.</p>
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Since Jan. 2002
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Professor
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: University of Central Florida
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: I got my Ph.D. in Computer Science with concentration on computer networking and artificial neural networks.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Jan. 1999 ~ Dec. 2001 
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Research Assistant
     i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Nortel Networks
+    i18n: company_c
+  desc:
+    detail: I worked with Nortel on projects including wireless network management systems and telecom. software testing automation in Beijing China, Richardson TX, and Paris France.
+    i18n: company_c_desc
+  date:
+    detail: Sept. 1994 ~ Dec. 1998
+    i18n: company_c_date
+  job:
+    detail: Senior Software Engineer
+    i18n: company_c_job
   icon: fa-plus-square

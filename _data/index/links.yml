@@ -1,7 +1,7 @@
 # links section data
 - last_name: 
   first_name: GENI
-  desc: An open infrastructure for at-scale networking and distributed systems research and education that spans the US.
+  desc: At-scale networking and distributed infrastructure for research and education.
   website: https://www.geni.net/
   email: 
 
@@ -40,3 +40,5 @@
   desc: Servers in cloud with instance-level protection through scalable and built-in virtual firewalls.
   website: https://www.ibm.com/cloud-computing/bluemix/
   email: 
+
+

@@ -4,8 +4,8 @@
     detail: Valdosta State University
     i18n: company_a
   desc:
-    detail: In addition to teaching a wide spectrum of courses in computing, I am an active researcher in cloud and networking, AI, parallel computing, and CS education.
-      <p>Meanwhile, I have been working as a Full Stack Developer on numerous Web and Modile projects.</p>
+    detail: In addition to teaching a wide spectrum of courses in computing, I am also an active researcher in cloud and networking, AI, parallel computing, and CS education.
+      <p>Meanwhile, I have been working as an independent Full Stack Developer on numerous Web and Modile projects.</p>
     i18n: company_a_desc
   date:
     detail: Since Jan. 2002

@@ -11,7 +11,7 @@ icon: icon-html
 
 ### Background
 
-This tutorial assumes essential tools such as git, gem, and bundle, etc. have all been installed and configured on your computer.
+This tutorial assumes essential tools such as git, ruby, gem, and bundle, etc. have all been installed and configured on your computer.
  
 Some quick facts about Jekyll:
 > reads the configuration file `_config.yml`
@@ -26,17 +26,25 @@ Some quick facts about Jekyll:
 
 
 ### Install Jekyll 
+
 1. `> gem install jekyll bundler`
+
 2. `> bundle install`
 
 ### (Optional) Download one of the Jekyll themes
+
 1. Choose one of your favorite Jekyll themes at [Jekyll Themes](http://jekyllthemes.org) or a similar site
-2. `> git clone git://.....git`
+
+2. `> git clone git://.....git` which creates a new folder say `theme`.
+
+3. Typically, you don't care about the history of the theme project.
+
+	`> cd theme; rm -rf .git`
 
 ### Create a new personal github page
 1. `> jekyll new username.github.io; cd username.github.io`
 
-2. (Optional) Delete everything except for `Gemfile` and `Gemfile.lock` and copy everything over from the Jekyll theme folder created in the previous step.
+2. (Optional) Copy everything over from the Jekyll theme folder created in the previous step.
 
 	If your Jekyll theme needs additonal gems as its dependencies
 
@@ -44,7 +52,7 @@ Some quick facts about Jekyll:
 	
 		`source 'https://rubygems.org'`
 		
-	* Update `Gemfile` according to your Jekyll theme's website
+	* Update `Gemfile` according to your Jekyll theme's instructions
 	
 	* `> bundle install`
   
@@ -68,6 +76,7 @@ Some quick facts about Jekyll:
 	Now go to [http://localhost:4000](http://localhost:4000) on your browswer to test it.
 
 4. Work on your site. **This is where you should concentrate on the contents of your personal web site**.
+
 
 ### Publish your personal github page
 	

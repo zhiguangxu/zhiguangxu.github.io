@@ -28,7 +28,7 @@ Then using `rpi001`, which has four CPU cores and a shared 1GB RAM, we will disc
 	
  ![Single Node](./single_node.jpg)
 
-###1. Parts list
+### 1. Parts list
 
 All of the following parts are provided by the instructor.
 
@@ -41,7 +41,7 @@ All of the following parts are provided by the instructor.
 - 6 Port USB Charging Station ( $\times 1$ )
 - USB to Micro USB Charging Cable, 8 inches ( $\times 4$ )
 
-###2. Assembling the cluster
+### 2. Assembling the cluster
 
 Open the Raspberry Pi Stackable Cluster Case and follow the assembly instructions to build a cluster of four Raspberry Pi's as shown in the picture above. Pay special attentions to the following bullets though:
 
@@ -54,7 +54,7 @@ Open the Raspberry Pi Stackable Cluster Case and follow the assembly instruction
 
 	<img src="fan.png"  width="300" height="300">
 
-###3. Installing Raspberry Pi OS
+### 3. Installing Raspberry Pi OS
 
 Download the [Raspberry Pi Imager](https://www.raspberrypi.com/software/) application and install it on your computer. Take a microSD card and connect it to your computer. 
 
@@ -77,9 +77,9 @@ Download the [Raspberry Pi Imager](https://www.raspberrypi.com/software/) applic
 
 Now you can click SAVE and then WRITE to start the installation process. Once completed, eject the card and connect it to the Raspberry Pi that sits on the __top__ of the cluster stack.
 
-###4. Access the Pi
+### 4. Access the Pi
 
-####4.1. SSH to the Pi
+#### 4.1. SSH to the Pi
 
 We are now ready to access the Pi `rpi001` from our computer.
 
@@ -100,7 +100,7 @@ pi@rpi001:~ $
 ```
 > Of course, on Windows, you can also SSH to `rpi001` using the [PuTTY](https://www.putty.org/) program.
 
-####4.2. Configure localisation
+#### 4.2. Configure localisation
 
 Run the following command on `rpi001`. 
 
@@ -112,7 +112,7 @@ pi@rpi001:~ $ sudo raspi-config
 
 Then use your keyboard to choose `Localisation Options` then `WLAN Country`, go down the list and choose `US United States`. If prompted, reboot the Pi.
 
-####4.3. Enbale the VNC server
+#### 4.3. Enbale the VNC server
 
 SSH back into `rpi001`. 
 
@@ -132,7 +132,7 @@ pi@rpi001:~ $ sudo reboot
 > To reboot your Pi, of course you could always power it off and power it back on. But this is not considered safe.
 
 
-####4.4. Connect the Pi to the Inernet through WiFi
+#### 4.4. Connect the Pi to the Inernet through WiFi
 
 - (If you are off VSU campus, skip this step) 
 	
@@ -181,7 +181,7 @@ pi@rpi001:~ $ sudo reboot
 	> 	```	
 	
 
-####4.5. Update the Pi
+#### 4.5. Update the Pi
 
 To wrap it up, in the SSH terminal to `rpi001`, run the following commands to update and reboot the Pi.
 

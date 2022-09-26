@@ -4,8 +4,9 @@
     detail: Valdosta State University
     i18n: company_a
   desc:
-    detail: In addition to teaching a wide spectrum of courses in computing, I am also an active researcher in cloud and networking, AI, parallel computing, and CS education.
+    detail: In addition to teaching a wide spectrum of courses in computing, I am also an active researcher in deep learning, distrubuted and parallel computing, full-stack web development, and CS education.
       <p>Meanwhile, I have been working as an independent Full Stack Developer on numerous Web and Modile projects.</p>
+      <p>In 2019, I was awarded the VSU Presidential Award for Excellence in Teaching.</p>
     i18n: company_a_desc
   date:
     detail: Since Jan. 2002
@@ -33,7 +34,7 @@
     detail: Nortel Networks
     i18n: company_c
   desc:
-    detail: I worked with Nortel on projects including wireless network management systems and telecom. software testing automation in Beijing China, Richardson TX, and Paris France.
+    detail: I worked on several major projects including wireless network management systems and telecom. software testing automation in Beijing China, Richardson TX, and Paris France.
     i18n: company_c_desc
   date:
     detail: Sept. 1994 ~ Dec. 1998

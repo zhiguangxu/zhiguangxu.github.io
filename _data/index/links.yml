@@ -18,6 +18,12 @@
   email: 
 
 - last_name: 
+  first_name: Google Colab
+  desc:  A cloud-based platform where AI and CUDA projeects could be executed.
+  website: https://colab.research.google.com/
+  email: 
+
+- last_name: 
   first_name: Google Cloud
   desc: Secure, global, high-performance, and cost-effective infrastructure.
   website: https://cloud.google.com/

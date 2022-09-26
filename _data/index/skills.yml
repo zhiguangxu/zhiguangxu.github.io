@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: JavaScript, Git/GitHub, Ruby on Rails, Python, TCP/IP, Sleeping, Perl, ReactJS, CUDA, Soccer, C, AI/Machine Learning, Java, Matlab
-percentage: 75, 95, 95, 70, 85, 90, 50, 80, 55, 70, 98, 85, 90, 78
+aspects: JavaScript, Git/GitHub, Ruby on Rails, Python, TCP/IP, Sleeping, Perl, ReactJS, CUDA, OpenMP/MPI, Soccer, C, AI/Machine Learning, Java, Matlab
+percentage: 75, 95, 95, 70, 85, 90, 50, 80, 75, 55, 70, 98, 85, 90, 78

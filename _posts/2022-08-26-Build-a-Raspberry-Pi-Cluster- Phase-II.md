@@ -4,8 +4,8 @@ title:  "Raspberry Pi Cluster - Phase II"
 date:   2022-08-26
 desc: "Steps to build a Raspberry Pi Cluster from Scratch"
 keywords: "Raspberry Pi,cluster,blog,easy"
-categories: [Config]
-tags: [Jekyll]
+categories: [Parallel]
+tags: [Raspberry Pi]
 icon: icon-html
 ---
 
